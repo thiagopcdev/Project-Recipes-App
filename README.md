@@ -1,4 +1,4 @@
-## Boas vindas ao repositório do projeto de Receitas!
+## Projeto APP de Receitas!
 
 ### Habilidades
 
