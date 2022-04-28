@@ -20,9 +20,8 @@ A base de dados é composta por duas APIs distintas, uma para comidas e outra pa
 
 O layout tem como foco dispositivos móveis, então todos os protótipos vão estar desenvolvidos em telas menores.
 
----
+Projeto grande que finalizou nosso modulo de Front-end na Trybe.
 
-Projeto grande que finalizou nosso modulo de Front-end na Trybe. 
 ---
 
 ### Requisitos do projeto
